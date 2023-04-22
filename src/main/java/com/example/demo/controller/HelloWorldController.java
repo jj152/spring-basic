@@ -8,6 +8,6 @@ public class HelloWorldController {
   
   @RequestMapping("/")
   String home() {
-    return "Hello Azure";
+    return "Hello Azure App service";
   }
 }
