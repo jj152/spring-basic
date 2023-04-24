@@ -5,6 +5,11 @@ languages:
   - java
 products:
   - Azure App Service
+prerequisites:
+  - Azure a/c
+  - Github a/c
+  - java 8
+  - Eclipse/STS/Intellij
 ---
 
 # Basic springboot application for Azure App Service
