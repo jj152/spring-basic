@@ -21,3 +21,7 @@ https://learn.microsoft.com/en-us/azure/app-service/quickstart-java?tabs=javase&
 
 # How to update the project:
 Any java editor(you can even use Github editor) can be used to update according to the business need. E.g., Eclipse, STS, Intellij
+
+# A basic project structure:
+  ![image](https://user-images.githubusercontent.com/20474367/233970093-46c7a52a-907e-4697-aa54-0e38de0f8524.png)
+
