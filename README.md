@@ -32,4 +32,4 @@ Any java editor(you can even use Github editor) can be used to update according 
   - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/ **Method** - Get
   - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/{id} **Method** - Get
   - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/{id} **Method** - Delete
-  - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/ **Method** - Post **Request Body** - {"id" : 6,"name" : "product 6","quantity" : 6,"price" : 360}
+  - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/ **Method** - Post **Request Body** - {"id":1,"name":"xxx","quantity":1,"price":1}
