@@ -27,3 +27,10 @@ Any java editor(you can even use Github editor) can be used to update according 
 
 # Escalation Matrix:
   - ranadip.das@abzooba.com
+
+
+# How to check the app on internet:
+  - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products **Method** - Get
+  - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/{id} **Method** - Get
+  - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/{id} **Method** - Delete
+  - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/ **Method** - Post **Request Body** - {"id" : 6,"name" : "product 6","quantity" : 6,"price" : 360}
