@@ -1,6 +1,6 @@
 ---
 topic: 
-  - REST CRUD APIs with Spring Boot, Azure Cosmos DB and Azure Cosmos DB SQL API
+  - REST CRUD APIs with Spring Boot, Azure Cosmos DB
 languages:
   - java
 products:
@@ -14,8 +14,8 @@ Difficulty:
   - java 8
   - Eclipse/STS/Intellij
 
-# REST CRUD APIs with Spring Boot, Azure Cosmos DB and Azure Cosmos DB SQL API
-This is an Spring Boot, Azure Cosmos DB based application synced with Git repository.
+# REST CRUD APIs with Spring Boot, Azure Cosmos DB
+This application is an Azure App service based on Springboot connected to Azure Cosmos DB and synced with Git repository.
 
 # prerequisites:
   - Azure a/c
