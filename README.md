@@ -1,6 +1,6 @@
 ---
 topic: 
-  - REST CRUD APIs with Spring Boot, Azure Cosmos DB
+  - REST CRUD APIs with Spring Boot and Azure Cosmos DB
 languages:
   - java
 products:
