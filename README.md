@@ -1,6 +1,6 @@
 ---
 topic: 
-  - Basic Springboot application
+  - Basic springboot application for Azure App Service
 languages:
   - java
 products:
