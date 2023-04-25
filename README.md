@@ -1,19 +1,21 @@
 ---
 topic: 
-  - Basic Springboot application
+  - REST CRUD APIs with Spring Boot, Azure Cosmos DB and Azure Cosmos DB SQL API
 languages:
   - java
 products:
-  - Azure App Service
-prerequisites:
+  - Azure Cosmos DB
+Difficulty:
+  - Easy
+---
+# prerequisites:
   - Azure a/c
   - Github a/c
   - java 8
   - Eclipse/STS/Intellij
----
 
-# Basic springboot application for Azure App Service
-This application is an Azure App service based on Springboot and synced with Git repository.
+# REST CRUD APIs with Spring Boot, Azure Cosmos DB and Azure Cosmos DB SQL API
+This is an Spring Boot, Azure Cosmos DB based application synced with Git repository.
 
 # prerequisites:
   - Azure a/c
@@ -34,7 +36,7 @@ Any java editor(you can even use Github editor) can be used to update according 
   - ranadip.das@abzooba.com
 
 # How to check the app on internet:
-  - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/ **Method** - Get
-  - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/{id} **Method** - Get
-  - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/{id} **Method** - Delete
-  - **URL** - https://springappservicewithgit.azurewebsites.net/api/v1/products/ **Method** - Post **Request Body** - {"id":1,"name":"xxx","quantity":1,"price":1}
+  - **URL** - https://springappservicewithcosmosdbandgit.azurewebsites.net/api/v1/products/ **Method** - Get
+  - **URL** - https://springappservicewithcosmosdbandgit.azurewebsites.net/api/v1/products/{id} **Method** - Get
+  - **URL** - https://springappservicewithcosmosdbandgit.azurewebsites.net/api/v1/products/{id} **Method** - Delete
+  - **URL** - https://springappservicewithcosmosdbandgit.azurewebsites.net/api/v1/products/ **Method** - Post **Request Body** - {"firstName":"Leo","lastName":"Messi","email":"xxxx"}
