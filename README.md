@@ -24,7 +24,7 @@ This is an Spring Boot, Azure Cosmos DB based application synced with Git reposi
   - any editor like - Eclipse, STS, Intellij
 
 # How to set up initial project:
-https://learn.microsoft.com/en-us/azure/app-service/quickstart-java?tabs=javase&pivots=platform-windows-development-environment-azure-portal&tryIt=true&source=docs#code-try-16
+Follow the Microsoft(or other) document to create a java app and Cosmos DB on azure app service
 
 # How to update the project:
 Any java editor(you can even use Github editor) can be used to update according to the business need. E.g., Eclipse, STS, Intellij
