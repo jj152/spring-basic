@@ -5,12 +5,14 @@ languages:
   - java
 products:
   - Azure App Service
-prerequisites:
+Difficulty:
+  - Easy
+---
+# prerequisites:
   - Azure a/c
   - Github a/c
   - java 8
   - Eclipse/STS/Intellij
----
 
 # Basic springboot application for Azure App Service
 This application is an Azure App service based on Springboot and synced with Git repository.
