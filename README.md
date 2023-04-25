@@ -22,7 +22,7 @@ This application is an Azure App service based on Springboot and synced with Git
   - any editor like - Eclipse, STS, Intellij
 
 # How to set up initial project:
-https://learn.microsoft.com/en-us/azure/app-service/quickstart-java?tabs=javase&pivots=platform-windows-development-environment-azure-portal&tryIt=true&source=docs#code-try-16
+Follow the Microsoft(or other) document to create a java app on azure app service
 
 # How to update the project:
 Any java editor(you can even use Github editor) can be used to update according to the business need. E.g., Eclipse, STS, Intellij
