@@ -30,7 +30,7 @@ Any java editor(you can even use Github editor) can be used to update according 
 # Escalation Matrix:
   - ranadip.das@abzooba.com
 
-# How to check the app on internet:
+# How to check the app on the internet:
   - **URL** - https://azure-default-domain-name/api/v1/products/ 
 **Method** - Post 
 **Request Body** {"id":1,"name":"xxx","quantity":1,"price":1}
@@ -40,7 +40,5 @@ Any java editor(you can even use Github editor) can be used to update according 
 **Method** - Get
   - **URL** - https://azure-default-domain-name/api/v1/products/{id} 
 **Method** - Delete
-  - 
-
 
 **NB** - Here the azure-default-domain-name is - demojavawinwebapp.azurewebsites.net
