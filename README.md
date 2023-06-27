@@ -35,4 +35,4 @@ Any java editor(you can even use Github editor) can be used to update according 
   - **URL** - https://azure-default-domain-name/api/v1/products/{id} **Method** - Get
   - **URL** - https://azure-default-domain-name/api/v1/products/{id} **Method** - Delete
   - **URL** - https://azure-default-domain-name/api/v1/products/ **Method** - Post **Request Body** -{"id":1,"name":"xxx","quantity":1,"price":1}
-NB - Here the azure-default-domain-name is - demojavawinwebapp.azurewebsites.net
+- NB - Here the azure-default-domain-name is - demojavawinwebapp.azurewebsites.net
