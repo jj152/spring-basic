@@ -4,5 +4,5 @@ spring:
       cosmos:
         database: ToDoList
         populate-query-metrics: true
-        endpoint: https://springappservicewithgitdb.documents.azure.com:443/
+        endpoint: https://springbasic.documents.azure.com:443/
         key: YFO89SYY2QIcVJ3zAyid55TcJmeMM4du8EVDmAbmnl4GK8o2ztITyVfVUHkTB8JIBj3KQGu1YmutACDbeV2pfA==
