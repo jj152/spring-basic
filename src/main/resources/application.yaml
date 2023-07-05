@@ -2,7 +2,7 @@ spring:
   cloud:
     azure:
       cosmos:
-        database: springbasic
+        database: ToDoList
         populate-query-metrics: true
         endpoint: https://springappservicewithgitdb.documents.azure.com:443/
-        key: oNSEvjYvdYqt1094teQ0dolS4YQP3eZq45wBkl317aKGbDKYNSKJGMBFQZ0NOt2sH4Bl8chUP0NKACDb2SE6AQ==
+        key: YFO89SYY2QIcVJ3zAyid55TcJmeMM4du8EVDmAbmnl4GK8o2ztITyVfVUHkTB8JIBj3KQGu1YmutACDbeV2pfA==
